@@ -1,0 +1,46 @@
+{
+  "repository": "zz0119/DASE7506-MP2",
+  "visibility": "public",
+  "official_test_accuracy": 83.5117773019272,
+  "files": [
+    {
+      "file": "AI_DISCLOSURE.md",
+      "bytes": 1721,
+      "sha256": "37fdbfa87b125feafb162c922d50100d489ff4d3037047ad061c60793682e911"
+    },
+    {
+      "file": "MP2_Report.pdf",
+      "bytes": 268700,
+      "sha256": "f8f56ede5a70c8b5d3dc38911e4229a3e06d2b99895d87a3490cc632e3a05880"
+    },
+    {
+      "file": "README.md",
+      "bytes": 4512,
+      "sha256": "f45ff63f48fccc354cb68b02a45cf99bfd69333aa1e5dd8ba2876397fb7ab1db"
+    },
+    {
+      "file": "model_bundle.zip",
+      "bytes": 2375629,
+      "sha256": "d3ad888683eb2909927327192d6065d930c87fcd0547e0d62d53d76865ce0699"
+    },
+    {
+      "file": "source_bundle.zip",
+      "bytes": 2947392,
+      "sha256": "72519b748463836f31b163245a1a4bbc66192627a4cd48708aa0336feb6e1375"
+    },
+    {
+      "file": "test-score.json",
+      "bytes": 179,
+      "sha256": "b2732ddce2e9ba9712f42024a70cb5e7d0732878d1a8359ca69cb06bedc613d6"
+    }
+  ],
+  "model_source_freeze_unchanged": true,
+  "official_data_download": "Pinned upstream commit with SHA256 validation",
+  "excludes": [
+    "lecture PDFs",
+    "virtual environment",
+    "unselected model weights",
+    "historical experiment logs",
+    "other projects"
+  ]
+}
